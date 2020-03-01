@@ -12,12 +12,12 @@ Permet de récupérer les données TeleSensor sur HomeAssistant (http://www.home
 Dans le fichier sensor.yaml :
 
 ```yaml
-	- platform: teleinfo
-	  resources:
-	  - iinst
-	  - imax
-	  - papp
-	  - ptec
+- platform: teleinfo
+  resources:
+  - iinst
+  - imax
+  - papp
+  - ptec
 ```
 
 ## Licence 
