@@ -1,0 +1,8 @@
+{
+  "domain": "teleinfo",
+  "name": "Teleifno Sensor",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": ["slashx57"],
+  "requirements": ["pyftdi>=0.29.3"]
+}

@@ -22,8 +22,6 @@
     <Compile Include="sensor.py" />
   </ItemGroup>
   <ItemGroup>
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="LICENSE" />
     <Content Include="README.md" />
   </ItemGroup>
